@@ -1,6 +1,6 @@
 # Super Heroes Clicky Game
 
-## See this game live: 
+## See this game live: https://www.randy-gentry.com/clicky-game/
 
 ## Description
 
