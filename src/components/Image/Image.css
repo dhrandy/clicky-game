@@ -1,0 +1,10 @@
+.image {
+    background: #fff;
+    border-radius: 2px;
+    height: 248px;
+    margin: 1rem;
+    position: relative;
+    width: 248px;
+    overflow: hidden;
+  }
+   
